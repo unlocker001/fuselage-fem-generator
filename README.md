@@ -34,10 +34,10 @@ A default configuration produces a mesh of about 1 400 nodes and 3 500 elements
 ## Screenshots
 
 ![Main window with a generated fuselage model](docs/main-window.png)
-*Parameter panel, 3D viewport and element colour legend.*
+*Parameter panel, 3D viewport and toolbar.*
 
-![Wireframe view of the stringer and frame grid](docs/wireframe.png)
-*Wireframe view showing the stringer, frame and floor structure.*
+![Generated model with the element colour legend](docs/wireframe.png)
+*A generated model: skin, stringers, frames, floor panels, transverse beams and posts, each element group colour-coded.*
 
 ## Requirements
 

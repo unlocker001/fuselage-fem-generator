@@ -1,0 +1,29 @@
+{
+  "a": 92.0,
+  "b": 92.0,
+  "T": 0.06,
+  "H": 100.0,
+  "h": 4.0,
+  "cmax": 6,
+  "stringer_spacing": 6.0,
+  "frame_spacing": 15.0,
+  "bayes_number": 20,
+  "stringer_number": 108,
+  "stringer_material": {"E": 10300000, "NU": 0.32, "RHO": 0.101, "G": null},
+  "skin_material": {"E": 10300000, "NU": 0.32, "RHO": 0.101, "G": null},
+  "frame_material": {"E": 10300000, "NU": 0.32, "RHO": 0.101, "G": null},
+  "sections": {
+    "skin_thickness": 0.06,
+    "stringer_area": 0.162,
+    "frame_web_thickness": 0.055,
+    "frame_edge_area_inner": 0.038,
+    "frame_edge_area_outer": 0.038,
+    "floor_long_thickness": 0.078,
+    "floor_trans_thickness": 0.1,
+    "floor_long_edge_top_area": 0.197,
+    "floor_long_edge_bot_area": 0.033,
+    "floor_trans_edge_top_area": 0.05,
+    "floor_trans_edge_bot_area": 0.037,
+    "floor_post_area": 0.078
+  }
+}
