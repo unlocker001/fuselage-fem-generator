@@ -15,6 +15,7 @@ dist/
 *.obj
 *.png
 !icon.png
+!docs/*.png
 
 # Systeme
 .DS_Store
