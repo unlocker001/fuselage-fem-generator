@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Builds PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Sorties de l'application
+*.dat
+*.obj
+*.png
+!icon.png
+
+# Systeme
+.DS_Store
+Thumbs.db
